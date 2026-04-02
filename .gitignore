@@ -1,3 +1,18 @@
+# PlatformIO build output
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code
+.vscode/
+
+# WiFi credentials — never commit this
+include/secrets.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
 # Prerequisites
 *.d
 
