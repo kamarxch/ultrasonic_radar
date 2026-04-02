@@ -23,10 +23,7 @@ A real-time radar system built with an ESP32-CAM, a servo motor, and an HC-SR04 
 | SG92R servo motor (or SG90) | 1 |
 | HC-SR04 ultrasonic sensor | 1 |
 | Breadboard | 1 |
-| 10kΩ resistor | 1 |
-| 20kΩ resistor | 1 |
 | USB cable (for ESP32-CAM power) | 1 |
-| External 5V supply or phone charger (for servo + sensor power) | 1 |
 | Jumper wires | several |
 
 ---
